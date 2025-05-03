@@ -6,6 +6,7 @@
 /storage/*.key
 /storage/pail
 composer.phar
+composer.lock
 /vendor/
 .env
 .env.backup
